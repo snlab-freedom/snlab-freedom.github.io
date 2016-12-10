@@ -1,0 +1,70 @@
+languageCode = "en-us"
+baseurl = "https://snlab-freedom.github.io/"
+title = "SNLab Freedom Zone"
+theme = "hugo-theme-cooler"
+disqusShortname = ""
+googleAnalytics = ""
+paginate = 10
+
+# Single post link format
+[permalinks]
+    post = "/:year/:month/:day/:slug"
+
+# Footer content
+[params]
+    # Tell me who you're
+    location = ""
+    site_description = ""
+    organization = "SNLab.Freedom"
+    organization_url = "https://github.com/snlab_freedom"
+    copyright  = "Powered by [Hugo](//gohugo.io). Theme by [cooler](https://gitlab.com/snlab-freedom/hugo-theme-cooler)."
+
+    # Format dates with Go's time formating
+    date_format = "2006-01-01"
+
+    # Meta data for your website
+    title = "SNLab"
+    subtitle = "Freedom"
+
+# Main.Menus
+[[menu.main]]
+    name  = "Home"
+    identifier = "home"
+    url = "/"
+    weight = 0
+
+[[menu.main]]
+    name  = "Projects"
+    identifier = "projects"
+    weight = 100
+
+[[menu.main]]
+    name   = "Posts"
+    url    = "/posts"
+    identifier = "posts"
+    weight = 200
+
+[[menu.main]]
+    name = "Members"
+    identifier = "members"
+    url = "/members"
+    weight = 300
+
+[[menu.main]]
+    name  = "Publications"
+    url   = "/publications"
+    identifier = "publications"
+    weight = 400
+
+
+# Members
+[[params.members]]
+    position = "Directors"
+[[params.members]]
+    position = "Faculty"
+[[params.members]]
+    position = "Postdocs"
+[[params.members]]
+    position = "Graduate Students"
+[[params.members]]
+    position = "Undergraduates"
