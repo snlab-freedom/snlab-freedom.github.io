@@ -2,7 +2,7 @@
 
 WORK_DIR=$(dirname $0)
 cd $WORK_DIR
-echo 'Enter $WORK_DIR'
+echo "Enter $WORK_DIR"
 
 echo 'Check themes...'
 if [ ! -d themes/hugo-theme-cooler ]; then
@@ -13,7 +13,7 @@ if [ ! -d themes/hugo-theme-cooler ]; then
 fi
 
 pushd themes/hugo-theme-cooler
-if [ -z $(git status --porcelain) ]; then
+if [ -z "$(git status --porcelain)" ]; then
     echo 'themes/hugo-theme-cooler is clean'
     echo 'Sync themes/hugo-theme-cooler from github...'
     git pull
@@ -22,13 +22,13 @@ fi
 popd
 
 echo 'Check public...'
-if [ -d public ] then;
+if [ -d public ]; then
     echo 'public exists'
     pushd public;
     echo 'Check workspace status:'
     git status --porcelain
     if [ $? -eq 0 ]; then
-        if [ -z $(git status --porcelain) ]; then
+        if [ -n "$(git status --porcelain)" ]; then
             echo 'Workspace is not clean'
             echo 'Cleanup the workspace'
             git clean -xdf
