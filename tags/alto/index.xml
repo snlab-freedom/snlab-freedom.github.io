@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SNLab</title>
+    <link>https://snlab-freedom.github.io/tags/alto/index.xml</link>
+    <description>Recent content on SNLab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Powered by [Hugo](//gohugo.io). Theme by [cooler](https://gitlab.com/snlab-freedom/hugo-theme-cooler).</copyright>
+    <atom:link href="https://snlab-freedom.github.io/tags/alto/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Demonstration of ALTO SPCE on 2016 Internet2 Global Summit</title>
+      <link>https://snlab-freedom.github.io/posts/2016-05-31-demonstration-of-alto-spec-on-2016-internet2-global-summit/</link>
+      <pubDate>Tue, 31 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://snlab-freedom.github.io/posts/2016-05-31-demonstration-of-alto-spec-on-2016-internet2-global-summit/</guid>
+      <description>&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;2016 Internet2 Global Summit&lt;/em&gt; was successfully held in Chicago, Illinois on May 15 to May 18.The Internet2 Global Summit is a leading forum to support and drive the advancement of research and education, spur next-generation innovation and accelerate global discovery.&lt;/p&gt;
+
+&lt;p&gt;SNlab cooperated with CERN from Caltech on the discussion and demonstration of latest achievements among this summit. Core members including Jensen Zhang, Mingming Chen, Qiao Xiang, Kai Gao, May Wang and Shawn Lin attended the summit.&lt;/p&gt;
+
+&lt;p&gt;Achievements on development of ALTO SPCE was presented and received great acclaim from attendees.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://snlab-freedom.github.io/images/posts/2016-05-31-demonstration-of-alto-spec-on-2016-internet2-global-summit-1.png&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;SNlab&amp;rsquo;s major work is based on the SDN controller OpenDaylight. This demonstration is bulit on the environment provided by Caltech, with several Pica8 and SDN switches(from Dell) and work with standard protocol OpenFlow to connect OpenDaylight. The convertion from virtual environment to the real is a great breakthrough .&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://snlab-freedom.github.io/images/posts/2016-05-31-demonstration-of-alto-spec-on-2016-internet2-global-summit-2.png&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;SNlab and Caltech will keep working  together on the great issues of SDN.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
