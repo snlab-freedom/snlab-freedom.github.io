@@ -20,7 +20,7 @@ paginate = 10
     copyright  = "Powered by [Hugo](//gohugo.io). Theme by [cooler](https://gitlab.com/snlab-freedom/hugo-theme-cooler)."
 
     # Format dates with Go's time formating
-    date_format = "2006-01-01"
+    date_format = "2006-01-02"
 
     # Meta data for your website
     title = "SNLab"
