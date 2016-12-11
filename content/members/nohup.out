@@ -1,0 +1,48 @@
+2016/12/11 10:14:23 version: 20161202
+2016/12/11 10:14:23 listening on: [::]:8999
+2016/12/11 10:14:23 encryption: aes
+2016/12/11 10:14:23 nodelay parameters: 1 20 2 1
+2016/12/11 10:14:23 remote address: 104.236.202.150:544
+2016/12/11 10:14:23 sndwnd: 128 rcvwnd: 1024
+2016/12/11 10:14:23 compression: true
+2016/12/11 10:14:23 mtu: 1350
+2016/12/11 10:14:23 datashard: 10 parityshard: 3
+2016/12/11 10:14:23 acknodelay: false
+2016/12/11 10:14:23 dscp: 0
+2016/12/11 10:14:23 sockbuf: 4194304
+2016/12/11 10:14:23 keepalive: 10
+2016/12/11 10:14:23 conn: 1
+2016/12/11 10:14:23 autoexpire: 0
+2016/12/11 10:14:23 SetReadBuffer: set udp 192.168.1.102:63730: setsockopt: no buffer space available
+2016/12/11 10:14:23 SetWriteBuffer: set udp 192.168.1.102:63730: setsockopt: no buffer space available
+2016/12/11 10:14:43 TCP SetReadBuffer: set tcp 127.0.0.1:8999: setsockopt: no buffer space available
+2016/12/11 10:14:43 TCP SetWriteBuffer: set tcp 127.0.0.1:8999: setsockopt: no buffer space available
+2016/12/11 10:14:43 stream opened
+2016/12/11 10:14:54 TCP SetReadBuffer: set tcp 127.0.0.1:8999: setsockopt: no buffer space available
+2016/12/11 10:14:54 TCP SetWriteBuffer: set tcp 127.0.0.1:8999: setsockopt: no buffer space available
+2016/12/11 10:14:54 stream opened
+2016/12/11 10:15:01 TCP SetReadBuffer: set tcp 127.0.0.1:8999: setsockopt: no buffer space available
+2016/12/11 10:15:01 TCP SetWriteBuffer: set tcp 127.0.0.1:8999: setsockopt: no buffer space available
+2016/12/11 10:15:01 stream opened
+2016/12/11 10:15:01 TCP SetReadBuffer: set tcp 127.0.0.1:8999: setsockopt: no buffer space available
+2016/12/11 10:15:01 TCP SetWriteBuffer: set tcp 127.0.0.1:8999: setsockopt: no buffer space available
+2016/12/11 10:15:01 stream opened
+2016/12/11 10:15:01 TCP SetReadBuffer: set tcp 127.0.0.1:8999: setsockopt: no buffer space available
+2016/12/11 10:15:01 TCP SetWriteBuffer: set tcp 127.0.0.1:8999: setsockopt: no buffer space available
+2016/12/11 10:15:01 stream opened
+2016/12/11 10:15:04 TCP SetReadBuffer: set tcp 127.0.0.1:8999: setsockopt: no buffer space available
+2016/12/11 10:15:04 TCP SetWriteBuffer: set tcp 127.0.0.1:8999: setsockopt: no buffer space available
+2016/12/11 10:15:04 stream opened
+2016/12/11 10:18:45 stream closed
+2016/12/11 10:18:45 stream closed
+2016/12/11 10:18:45 stream closed
+2016/12/11 10:18:45 stream closed
+2016/12/11 10:18:45 stream closed
+2016/12/11 10:18:45 stream closed
+2016/12/11 10:36:56 TCP SetReadBuffer: set tcp 127.0.0.1:8999: setsockopt: no buffer space available
+2016/12/11 10:36:56 TCP SetWriteBuffer: set tcp 127.0.0.1:8999: setsockopt: no buffer space available
+2016/12/11 10:36:56 stream opened
+2016/12/11 10:38:58 stream closed
+2016/12/11 10:44:10 TCP SetReadBuffer: set tcp 127.0.0.1:8999: setsockopt: no buffer space available
+2016/12/11 10:44:10 TCP SetWriteBuffer: set tcp 127.0.0.1:8999: setsockopt: no buffer space available
+2016/12/11 10:44:10 stream opened
