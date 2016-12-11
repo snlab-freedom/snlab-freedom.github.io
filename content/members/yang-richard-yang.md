@@ -6,7 +6,7 @@ avatar = "images/members/yang_richard_yang.jpg"
 position = "Directors"
 categories = ["members"]
 tags = ["members"]
-weight = 100
+weight = 1
 +++
 <br/>
 

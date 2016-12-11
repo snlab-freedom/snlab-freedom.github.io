@@ -6,7 +6,7 @@ avatar = "images/members/wei_wang.jpg"
 position = "Faculty"
 categories = ["members"]
 tags = ["members"]
-weight = 100
+weight = 2
 +++
 <br/>
 
