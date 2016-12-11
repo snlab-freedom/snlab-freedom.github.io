@@ -61,6 +61,13 @@ paginate = 10
     url = "/about"
     weight = 500
 
+# Sidebar Documentation content
+[[params.widget.documentation]]
+    name = "Demos"
+    url = "/demos"
+[[params.widget.documentation]]
+    name = "Tutorials"
+    url = "/tutorials"
 
 # Members
 [[params.members]]
@@ -73,3 +80,12 @@ paginate = 10
     position = "Graduate Students"
 [[params.members]]
     position = "Undergraduates"
+
+# Enable and disable widgets for the right sidebar
+[params.widgets]
+    recent_articles = true
+    categories = true
+    tags = true
+    tag_cloud = true
+    download = false
+    documentation = true
