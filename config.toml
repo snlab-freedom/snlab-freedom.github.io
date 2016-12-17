@@ -39,6 +39,12 @@ paginate = 10
     weight = 100
 
 [[menu.main]]
+    name  = "Paper Study"
+    identifier = "paper-study"
+    url = "/paper-study"
+    weight = 110
+
+[[menu.main]]
     name   = "Posts"
     url    = "/posts"
     identifier = "posts"
@@ -69,6 +75,19 @@ paginate = 10
     name = "Tutorials"
     url = "/tutorials"
 
+# Enter a link for the follow button on the left
+[params.profile]
+    follow_button = ""
+
+# Article First Content
+[params.article_first]
+    title = "Welcome to SNLab Freedom Zone!"
+    body = [
+    "You've reached the website for Freedom Zone of Systems Networking Lab (SNLab.Freedom).",
+    "Founded by Professor Y. Richard Yang <http://www.cs.yale.edu/homes/yry/> in the summer of 2014, and hosted in the Institute of Advanced Studies at Tongji University, the Systems Networking Lab (SNLab) will provide astimulating, world-class environment for the advancement of both theory and systems of networks and networked systems."
+    ]
+    rss_show = true
+
 # Members
 [[params.members]]
     position = "Directors"
@@ -81,6 +100,37 @@ paginate = 10
 [[params.members]]
     position = "Undergraduates"
 
+[social]
+# Add your social network accounts to the profile section on the left
+# by entering your username. The links to your account will be
+# create automatically.
+    github          = "snlab-freedom"
+    bitbucket       = ""
+    jsfiddle        = ""
+    codepen         = ""
+    foursquare      = ""
+    dribbble        = ""
+    deviantart      = ""
+    behance         = ""
+    flickr          = ""
+    instagram       = ""
+    youtube         = "UCgUGS8ggkCKmyppiFqEtidA"
+    vimeo           = ""
+    vine            = ""
+    medium          = ""
+    wordpress       = ""
+    tumblr          = ""
+    xing            = ""
+    linkedin        = ""
+    slideshare      = ""
+    stackoverflow   = ""
+    reddit          = ""
+    pinterest       = ""
+    googleplus      = "117843142371942012323"
+    facebook        = ""
+    facebook_admin  = ""
+    twitter_domain  = ""
+    twitter         = ""
 # Enable and disable widgets for the right sidebar
 [params.widgets]
     recent_articles = true
