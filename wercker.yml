@@ -21,6 +21,9 @@ build:
     # http://devcenter.wercker.com/docs/steps/index.html
   steps:
     - script:
-        name: echo
+        name: prepare-themes
         code: |
-          echo "hello world!"
+          git clone https://github.com/snlab-freedom/hugo-theme-cooler $WERCKER_SOURCE_DIR/themes/hugo-theme-cooler
+    - arjen/hugo-build@1.13.1:
+        theme: hugo-theme-cooler
+        flags: --buildDrafts=true
