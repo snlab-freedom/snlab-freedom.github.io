@@ -1,6 +1,6 @@
 # SNLab.Freedom
 
-[![wercker status](https://app.wercker.com/status/aab2f3a461c545bf3cbca862c1d2bf66/s/master "wercker status")](https://app.wercker.com/project/byKey/aab2f3a461c545bf3cbca862c1d2bf66)
+[![wercker status](https://app.wercker.com/status/aab2f3a461c545bf3cbca862c1d2bf66/s/ "wercker status")](https://app.wercker.com/project/byKey/aab2f3a461c545bf3cbca862c1d2bf66)
 
 This branch is for the content of the SNLab.Freedom git pages.
 
