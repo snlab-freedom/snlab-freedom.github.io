@@ -29,3 +29,8 @@ build:
     - arjen/hugo-build@1.13.1:
         theme: hugo-theme-cooler
         flags: --buildDrafts=true
+deploy:
+  steps:
+    - lukevivier/gh-pages@0.2.1:
+        token: $GIT_TOKEN
+        basedir: public
