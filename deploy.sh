@@ -41,12 +41,12 @@ if [ -d public ]; then
         echo 'There is no git repo :('
         popd
         rm -rf public
-        git clone https://github.com/snlab-freedom/snlab-freedom.github.io public
+        git clone https://github.com/snlab-freedom/snlab-freedom.github.io -b master public
     fi
 else
     echo 'There is no git repo :('
     rm -rf public
-    git clone https://github.com/snlab-freedom/snlab-freedom.github.io public
+    git clone https://github.com/snlab-freedom/snlab-freedom.github.io -b master public
 fi
 
 hugo
