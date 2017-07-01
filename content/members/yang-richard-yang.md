@@ -2,6 +2,7 @@
 date = "2016-12-10"
 menu = ""
 title = "Y.Richard.Yang"
+email = "yry@cs.yale.edu"
 avatar = "images/members/yang_richard_yang.jpg"
 position = "Directors"
 categories = ["members"]

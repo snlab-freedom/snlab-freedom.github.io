@@ -2,6 +2,7 @@
 date = "2016-12-11"
 menu = ""
 title = "Kai Gao"
+email = "gaok12@mails.tsinghua.edu.cn"
 avatar = "images/members/kai_gao.jpg"
 position = "Graduate Students"
 categories = ["members"]

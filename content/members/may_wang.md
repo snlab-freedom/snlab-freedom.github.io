@@ -2,6 +2,7 @@
 date = "2016-12-11"
 menu = ""
 title = "May Wang"
+email = "whr_hr_r@163.com"
 avatar = "images/members/may_wang.jpg"
 position = "Graduate Students"
 categories = ["members"]

@@ -2,6 +2,7 @@
 date = "2016-12-11"
 menu = ""
 title = "Qiao Xiang"
+email = "qiao.xiang@cs.yale.edu"
 avatar = "images/members/qiao_xiang.jpg"
 position = "Postdocs"
 categories = ["members"]

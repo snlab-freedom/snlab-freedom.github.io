@@ -2,6 +2,7 @@
 date = "2016-12-11"
 menu = ""
 title = "Jensen Zhang"
+email = "jingxuan.n.zhang@gmail.com"
 avatar = "images/members/jensen_zhang.jpg"
 position = "Graduate Students"
 categories = ["members"]
