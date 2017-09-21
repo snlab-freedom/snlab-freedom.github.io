@@ -96,6 +96,8 @@ paginate = 10
 [[params.members]]
     position = "Postdocs"
 [[params.members]]
+    position = "Alumni/Alumna"
+[[params.members]]
     position = "Graduate Students"
 [[params.members]]
     position = "Undergraduates"
