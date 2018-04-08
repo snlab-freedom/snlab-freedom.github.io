@@ -26,6 +26,8 @@ build:
         name: prepare-themes
         code: |
           git clone https://github.com/snlab-freedom/hugo-theme-cooler $WERCKER_SOURCE_DIR/themes/hugo-theme-cooler
+          cd $WERCKER_SOURCE_DIR/themes/hugo-theme-cooler
+          git checkout 4a71cc3
     - arjen/hugo-build@1.13.1:
         theme: hugo-theme-cooler
         flags: --buildDrafts=true
