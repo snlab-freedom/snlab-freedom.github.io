@@ -1,39 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <url>
-    <loc>https://snlab-freedom.github.io/</loc>
-    <lastmod>2016-06-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://snlab-freedom.github.io/posts/2016-06-14-aro-workshop-on-software-defined-networking-for-army-applications/</loc>
-    <lastmod>2016-06-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://snlab-freedom.github.io/posts/2016-06-14-snlab-members-attended-the-nsf-workshop-on-algorithms/</loc>
-    <lastmod>2016-06-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://snlab-freedom.github.io/posts/2016-06-13-sdn-programming-automation-abstraction-tools-and-applications/</loc>
-    <lastmod>2016-06-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://snlab-freedom.github.io/posts/2016-05-31-demonstration-of-alto-spec-on-2016-internet2-global-summit/</loc>
-    <lastmod>2016-05-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://snlab-freedom.github.io/posts/2016-05-31-spring-summit-of-snlab-held/</loc>
-    <lastmod>2016-05-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://snlab-freedom.github.io/about</loc>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://snlab-freedom.github.io/members/yang-richard-yang/</loc>
@@ -143,6 +110,112 @@
   <url>
     <loc>https://snlab-freedom.github.io/members/tony_wang/</loc>
     <lastmod>2016-12-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://snlab-freedom.github.io/posts/2016-06-14-aro-workshop-on-software-defined-networking-for-army-applications/</loc>
+    <lastmod>2016-06-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://snlab-freedom.github.io/posts/2016-06-14-snlab-members-attended-the-nsf-workshop-on-algorithms/</loc>
+    <lastmod>2016-06-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://snlab-freedom.github.io/posts/2016-06-13-sdn-programming-automation-abstraction-tools-and-applications/</loc>
+    <lastmod>2016-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://snlab-freedom.github.io/posts/2016-05-31-demonstration-of-alto-spec-on-2016-internet2-global-summit/</loc>
+    <lastmod>2016-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://snlab-freedom.github.io/posts/2016-05-31-spring-summit-of-snlab-held/</loc>
+    <lastmod>2016-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://snlab-freedom.github.io/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://snlab-freedom.github.io/tags/alto/</loc>
+    <lastmod>2016-05-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://snlab-freedom.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://snlab-freedom.github.io/members/</loc>
+    <lastmod>2016-12-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://snlab-freedom.github.io/tags/members/</loc>
+    <lastmod>2016-12-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://snlab-freedom.github.io/categories/members/</loc>
+    <lastmod>2016-12-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://snlab-freedom.github.io/categories/news/</loc>
+    <lastmod>2016-06-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://snlab-freedom.github.io/posts/</loc>
+    <lastmod>2016-06-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://snlab-freedom.github.io/tags/programming/</loc>
+    <lastmod>2016-06-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://snlab-freedom.github.io/</loc>
+    <lastmod>2016-12-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://snlab-freedom.github.io/tags/sdn/</loc>
+    <lastmod>2016-06-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://snlab-freedom.github.io/tags/summit/</loc>
+    <lastmod>2016-05-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://snlab-freedom.github.io/tags/</loc>
+    <lastmod>2016-05-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://snlab-freedom.github.io/tags/workshop/</loc>
+    <lastmod>2016-06-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>

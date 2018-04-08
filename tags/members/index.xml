@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SNLab</title>
-    <link>https://snlab-freedom.github.io/tags/members/index.xml</link>
-    <description>Recent content on SNLab</description>
+    <title>Members on SNLab Freedom Zone</title>
+    <link>https://snlab-freedom.github.io/tags/members/</link>
+    <description>Recent content in Members on SNLab Freedom Zone</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Powered by [Hugo](//gohugo.io). Theme by [cooler](https://gitlab.com/snlab-freedom/hugo-theme-cooler).</copyright>
-    <atom:link href="https://snlab-freedom.github.io/tags/members/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Dec 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://snlab-freedom.github.io/tags/members/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Y.Richard.Yang</title>
@@ -15,42 +17,20 @@
       <pubDate>Sat, 10 Dec 2016 00:00:00 +0000</pubDate>
       
       <guid>https://snlab-freedom.github.io/members/yang-richard-yang/</guid>
-      <description>
+      <description> 
+Yang Richard Yang Professor of Computer Science and Electrical Engineering (courtesy appointment)
+Yale University
+Department of Computer Science
+LAboratory of Networked Systems
 
-&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;yang-richard-yang&#34;&gt;Yang Richard Yang&lt;/h2&gt;
-
-&lt;p&gt;Professor of Computer Science
-and Electrical Engineering (courtesy appointment)&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.yale.edu/&#34;&gt;Yale University&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.cs.yale.edu/&#34;&gt;Department of Computer Science&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www-net.cs.yale.edu/&#34;&gt;LAboratory of Networked Systems&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;a href=&#34;http://scholar.google.com/citations?user=AQ6AppgAAAAJ&amp;amp;hl=en&amp;amp;oi=ao&#34;&gt;Google Scholar&lt;/a&gt;&lt;/p&gt;
-
-&lt;table border=&#34;0&#34; cellpadding=&#34;0&#34; cellspacing=&#34;0&#34;&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt; Office: 208A AK Watson&lt;br&gt; 51 Prospect Street&lt;br&gt; New
-      Haven, CT 06520&lt;br&gt; (&lt;a href=&#34;http://maps.google.com/maps?q=51+Prospect+Street,New+Haven+CT+06511&amp;amp;ll=41.312724,-72.925358&amp;amp;spn=0.004828,0.007693&amp;amp;t=k&amp;amp;hl=en&#34;&gt;google
-      map&lt;/a&gt;)
-      &lt;/td&gt;
-      &lt;td&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/td&gt;
-      &lt;td&gt;Phone: (203) 432-6400&lt;br&gt;
-          FAX: (203) 432-0593&lt;br&gt;
-          &lt;a href=&#34;mailto:yang.r.yang@yale.edu&#34;&gt;
-           yang.r.yang AT yale.edu&lt;/a&gt;&lt;br&gt;
-           or yry AT cs.yale.edu
-      &lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-</description>
+Google Scholar
+   Office: 208A AK Watson
+51 Prospect Street
+New Haven, CT 06520
+(google map)  &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Phone: (203) 432-6400
+FAX: (203) 432-0593
+yang.r.yang AT yale.edu
+or yry AT cs.yale.edu     </description>
     </item>
     
     <item>
@@ -59,14 +39,7 @@ and Electrical Engineering (courtesy appointment)&lt;/p&gt;
       <pubDate>Sun, 11 Dec 2016 00:00:00 +0000</pubDate>
       
       <guid>https://snlab-freedom.github.io/members/haizhou_du/</guid>
-      <description>
-
-&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;haizhou-du&#34;&gt;Haizhou Du&lt;/h2&gt;
-
-&lt;p&gt;Email: &lt;a href=&#34;mailto:duhaizhou@gmail.com&#34;&gt;duhaizhou@gmail.com&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Haizhou Du Email: duhaizhou@gmail.com</description>
     </item>
     
     <item>
@@ -75,14 +48,7 @@ and Electrical Engineering (courtesy appointment)&lt;/p&gt;
       <pubDate>Sun, 11 Dec 2016 00:00:00 +0000</pubDate>
       
       <guid>https://snlab-freedom.github.io/members/wei_wang/</guid>
-      <description>
-
-&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;wei-wang&#34;&gt;Wei Wang&lt;/h2&gt;
-
-&lt;p&gt;Email: &lt;a href=&#34;mailto:wwang@tongji.edu.cn&#34;&gt;wwang@tongji.edu.cn&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Wei Wang Email: wwang@tongji.edu.cn</description>
     </item>
     
     <item>
@@ -91,14 +57,7 @@ and Electrical Engineering (courtesy appointment)&lt;/p&gt;
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://snlab-freedom.github.io/members/chen_gu/</guid>
-      <description>
-
-&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;chen-gu&#34;&gt;Chen Gu&lt;/h2&gt;
-
-&lt;p&gt;Email: &lt;a href=&#34;mailto:gc19931011jy@gmail.com&#34;&gt;gc19931011jy@gmail.com&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Chen Gu Email: gc19931011jy@gmail.com</description>
     </item>
     
     <item>
@@ -107,14 +66,7 @@ and Electrical Engineering (courtesy appointment)&lt;/p&gt;
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://snlab-freedom.github.io/members/christopher_leet/</guid>
-      <description>
-
-&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;christopher-leet&#34;&gt;Christopher Leet&lt;/h2&gt;
-
-&lt;p&gt;Email: &lt;a href=&#34;mailto:christopher.leet@yale.edu&#34;&gt;christopher.leet@yale.edu&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Christopher Leet Email: christopher.leet@yale.edu</description>
     </item>
     
     <item>
@@ -123,14 +75,7 @@ and Electrical Engineering (courtesy appointment)&lt;/p&gt;
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://snlab-freedom.github.io/members/dawn_chen/</guid>
-      <description>
-
-&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;dawn-chan&#34;&gt;Dawn Chan&lt;/h2&gt;
-
-&lt;p&gt;Email: &lt;a href=&#34;mailto:dawn_chen_f@hotmail.com&#34;&gt;dawn_chen_f@hotmail.com&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Dawn Chan Email: dawn_chen_f@hotmail.com</description>
     </item>
     
     <item>
@@ -139,14 +84,7 @@ and Electrical Engineering (courtesy appointment)&lt;/p&gt;
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://snlab-freedom.github.io/members/dennis_yu/</guid>
-      <description>
-
-&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;dennis-yu&#34;&gt;Dennis Yu&lt;/h2&gt;
-
-&lt;p&gt;Email: &lt;a href=&#34;mailto:dennis.yht@gmail.com&#34;&gt;dennis.yht@gmail.com&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Dennis Yu Email: dennis.yht@gmail.com</description>
     </item>
     
     <item>
@@ -155,14 +93,7 @@ and Electrical Engineering (courtesy appointment)&lt;/p&gt;
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://snlab-freedom.github.io/members/dong_guo/</guid>
-      <description>
-
-&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;dong-guo&#34;&gt;Dong Guo&lt;/h2&gt;
-
-&lt;p&gt;Email: &lt;a href=&#34;mailto:gd@tongjo.com&#34;&gt;gd@tongjo.com&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Dong Guo Email: gd@tongjo.com</description>
     </item>
     
     <item>
@@ -171,14 +102,7 @@ and Electrical Engineering (courtesy appointment)&lt;/p&gt;
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://snlab-freedom.github.io/members/geng_li/</guid>
-      <description>
-
-&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;geng-li&#34;&gt;Geng Li&lt;/h2&gt;
-
-&lt;p&gt;Email: &lt;a href=&#34;mailto:geng.li@yale.edu&#34;&gt;geng.li@yale.edu&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Geng Li Email: geng.li@yale.edu</description>
     </item>
     
     <item>
@@ -187,14 +111,7 @@ and Electrical Engineering (courtesy appointment)&lt;/p&gt;
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://snlab-freedom.github.io/members/jace_liu/</guid>
-      <description>
-
-&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;jace-liu&#34;&gt;Jace Liu&lt;/h2&gt;
-
-&lt;p&gt;Email: &lt;a href=&#34;mailto:ly950710@gmail.com&#34;&gt;ly950710@gmail.com&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Jace Liu Email: ly950710@gmail.com</description>
     </item>
     
     <item>
@@ -203,14 +120,7 @@ and Electrical Engineering (courtesy appointment)&lt;/p&gt;
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://snlab-freedom.github.io/members/jiayuan_hu/</guid>
-      <description>
-
-&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;jiayuan-hu&#34;&gt;Jiayuan Hu&lt;/h2&gt;
-
-&lt;p&gt;Email: &lt;a href=&#34;mailto:jiayuan.hu@hotmail.com&#34;&gt;jiayuan.hu@hotmail.com&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Jiayuan Hu Email: jiayuan.hu@hotmail.com</description>
     </item>
     
     <item>
@@ -219,14 +129,7 @@ and Electrical Engineering (courtesy appointment)&lt;/p&gt;
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://snlab-freedom.github.io/members/junzhuo_wang/</guid>
-      <description>
-
-&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;junzhuo-wang&#34;&gt;Junzhuo Wang&lt;/h2&gt;
-
-&lt;p&gt;Email: &lt;a href=&#34;mailto:wangjunzhuo200@gmail.com&#34;&gt;wangjunzhuo200@gmail.com&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Junzhuo Wang Email: wangjunzhuo200@gmail.com</description>
     </item>
     
     <item>
@@ -235,14 +138,7 @@ and Electrical Engineering (courtesy appointment)&lt;/p&gt;
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://snlab-freedom.github.io/members/shu_dong/</guid>
-      <description>
-
-&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;shu-dong&#34;&gt;Shu Dong&lt;/h2&gt;
-
-&lt;p&gt;Email: &lt;a href=&#34;mailto:dongs2011@gmail.com&#34;&gt;dongs2011@gmail.com&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Shu Dong Email: dongs2011@gmail.com</description>
     </item>
     
     <item>
@@ -251,14 +147,7 @@ and Electrical Engineering (courtesy appointment)&lt;/p&gt;
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://snlab-freedom.github.io/members/xiang_zhang/</guid>
-      <description>
-
-&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;xiang-zhang&#34;&gt;Xiang Zhang&lt;/h2&gt;
-
-&lt;p&gt;Email: &lt;a href=&#34;mailto:apoptoxinice@gmail.com&#34;&gt;apoptoxinice@gmail.com&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Xiang Zhang Email: apoptoxinice@gmail.com</description>
     </item>
     
     <item>
@@ -267,14 +156,70 @@ and Electrical Engineering (courtesy appointment)&lt;/p&gt;
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://snlab-freedom.github.io/members/yichen_qian/</guid>
-      <description>
-
-&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;yichen-qian&#34;&gt;Yichen Qian&lt;/h2&gt;
-
-&lt;p&gt;Email: &lt;a href=&#34;mailto:92yichenqian@tongji.edu.cn&#34;&gt;92yichenqian@tongji.edu.cn&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Yichen Qian Email: 92yichenqian@tongji.edu.cn</description>
+    </item>
+    
+    <item>
+      <title>Jensen Zhang</title>
+      <link>https://snlab-freedom.github.io/members/jensen_zhang/</link>
+      <pubDate>Sun, 11 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://snlab-freedom.github.io/members/jensen_zhang/</guid>
+      <description>Jensen Zhang Email: jingxuan.n.zhang@gmail.com</description>
+    </item>
+    
+    <item>
+      <title>Kai Gao</title>
+      <link>https://snlab-freedom.github.io/members/kai_gao/</link>
+      <pubDate>Sun, 11 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://snlab-freedom.github.io/members/kai_gao/</guid>
+      <description>Kai Gao Email: godrickk@gmail.com</description>
+    </item>
+    
+    <item>
+      <title>May Wang</title>
+      <link>https://snlab-freedom.github.io/members/may_wang/</link>
+      <pubDate>Sun, 11 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://snlab-freedom.github.io/members/may_wang/</guid>
+      <description>May Wang Email: whr_hr_r@163.com</description>
+    </item>
+    
+    <item>
+      <title>Qiao Xiang</title>
+      <link>https://snlab-freedom.github.io/members/qiao_xiang/</link>
+      <pubDate>Sun, 11 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://snlab-freedom.github.io/members/qiao_xiang/</guid>
+      <description>Qiao Xiang Email: xiangq27@gmail.com</description>
+    </item>
+    
+    <item>
+      <title>Shawn Lin</title>
+      <link>https://snlab-freedom.github.io/members/shawn_lin/</link>
+      <pubDate>Sun, 11 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://snlab-freedom.github.io/members/shawn_lin/</guid>
+      <description>Shawn Lin Email: linxiao9292@outlook.com</description>
+    </item>
+    
+    <item>
+      <title>Shenshen Chen</title>
+      <link>https://snlab-freedom.github.io/members/shenshen_chen/</link>
+      <pubDate>Sun, 11 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://snlab-freedom.github.io/members/shenshen_chen/</guid>
+      <description>Shenshen Chen Email: cs90911@gmail.com</description>
+    </item>
+    
+    <item>
+      <title>Tony Wang</title>
+      <link>https://snlab-freedom.github.io/members/tony_wang/</link>
+      <pubDate>Sun, 11 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://snlab-freedom.github.io/members/tony_wang/</guid>
+      <description>Tony Wang Email: xinwang2014@hotmail.com</description>
     </item>
     
   </channel>
