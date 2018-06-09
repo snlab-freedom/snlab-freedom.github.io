@@ -27,7 +27,7 @@ build:
         code: |
           git clone https://github.com/snlab-freedom/hugo-theme-cooler $WERCKER_SOURCE_DIR/themes/hugo-theme-cooler
           cd $WERCKER_SOURCE_DIR/themes/hugo-theme-cooler
-          git checkout 25f74e3
+          git checkout e50f732
     - arjen/hugo-build@1.29.1:
         version: 0.36.1
         theme: hugo-theme-cooler
